@@ -95,7 +95,7 @@ Begin the process of requesting a certificate from Let’s Encrypt\. Using Certb
    WILDCARD=*.$DOMAIN
    ```
 
-   In the command, replace *Domain* with your registered domain name\.
+   In the command, replace *Domain* with your registered domain name\. Remember to keep it lower case\.
 
    Example:
 
